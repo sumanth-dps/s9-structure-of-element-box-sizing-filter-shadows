@@ -1,0 +1,81 @@
+h1{
+    color: rgb(255, 119, 0);
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(252, 250, 250);
+    background-color: rgb(39, 71, 10);
+    box-shadow: 10px 10px 10px gray;
+}
+#img2{
+    border: 20px groove red;
+    width:200px;
+    box-sizing: border-box;
+}
+
+h2{
+    width : 250px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:40px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+img{
+    width:250px;
+    margin: 20px;
+    box-sizing:border-box;
+}
+p{
+    display: inline-block;
+    font-size: 20px;
+    width: 250px;
+    height: 500px;
+    margin:20px;
+    overflow: auto;
+
+}
+.even{
+    border: 10px inset blue;
+    background-color:cornflowerblue;
+    box-shadow: 5px 5px 5px rgb(17, 112, 111);;
+    
+}
+#img1{
+    border: 10px dotted rgb(54, 54, 56);
+    filter: brightness(200%);
+
+}
+#img3{
+    border: 10px dashed teal;
+    filter: drop-shadow(10px 10px 5px rgb(7, 7, 7));
+
+}
+#img5{
+    border: 10px solid rgb(39, 83, 30);
+    filter:contrast(50%)
+}
+#img7{
+    border: 10px double rgb(156, 244, 240);
+}
+#img9{
+    border: 10px groove rgb(37, 37, 58);
+}
+#img11{
+    border: 10px ridge rgb(252, 67, 38);
+}
+
+#img13{
+    border: 10px outset rgb(230, 247, 76);
+}
+#img15{
+    border: 10px hidden rgb(239, 113, 189);
+}
+.odd{
+    text-shadow: 1px 1px 4px red;
+}
+p{
+    box-shadow: 5px 5px 5px black;
+}
+
+
